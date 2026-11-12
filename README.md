@@ -1,5 +1,8 @@
 ## Welcome
 
+![MES Divider](Images/MES-Divider.svg)
+
+
 Hi, thank you for visiting my repository. You can find here a lot of code snippets, examples and projects I published on my blog - https://blog.podkalicki.com
 
 ## Credits
