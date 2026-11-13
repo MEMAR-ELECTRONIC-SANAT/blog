@@ -5,7 +5,9 @@
 </p>
 
 
-![MES Divider](Images/MES-Divider.svg)
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
+</p>
 
 
 Hi, thank you for visiting my repository. You can find here a lot of code snippets, examples and projects I published on my blog - https://blog.podkalicki.com
